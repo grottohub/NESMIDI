@@ -5,7 +5,9 @@
   MIDI CONTROLLER
 
   by Notes and Volts
+  forked and edited by Jesse Robertson
   www.notesandvolts.com
+  www.jrobertson.dev
 
   Version 1.2 **Arduino UNO ONLY!**
  *************************************************************/
